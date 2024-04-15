@@ -1,0 +1,15 @@
+body {
+    font-size: 20px;
+}
+#elemente {
+    margin-left: 20px;
+}
+.def {
+    border: 2px solid #0073cf;
+    border-left: 10px solid #0073cf;
+    margin-right: 1080px;
+    padding: 2px 2px 2px 20px;
+}
+.deft {
+    color: #0073cf;
+}
